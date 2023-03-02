@@ -1,3 +1,6 @@
 steak
 chicken
 eggs
+salmon
+seabass
+duck
